@@ -10,9 +10,9 @@ Taxonomic study
 Functional Study
   -  AMR
     Taxonomic prediction & Phenotypic prediction
-    + surveillance
-    +  susceptibility
-    +  virulence
++  surveillance
++  susceptibility
++  virulence
      
 
 
